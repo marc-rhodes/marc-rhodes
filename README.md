@@ -1,32 +1,38 @@
-﻿# Marc Rhodes — Salesforce Developer & Consultant
+﻿# Marc Rhodes — CTO & Salesforce Developer
 
-Salesforce contract consultant based in Hanau, Germany. I build production-grade solutions on the Salesforce platform — custom Apex, Lightning Web Components, Flow automation, and third-party integrations — for clients across recruiting, healthcare, and professional services.
+Chief Technology Officer at AVL Recruiting Group GmbH (Hanau, Germany), managing the full technical stack across Salesforce, Microsoft 365/SharePoint, front-end development, security & compliance, and AI-powered automation. Also active as a Salesforce consultant across healthcare and professional services.
 
 ---
 
 ## What I work with
 
-**Apex & Development**
-`Apex` `SOQL` `Lightning Web Components` `REST/SOAP APIs` `Queueable/Batch Apex` `@InvocableMethod` `@RestResource`
+**Salesforce Development**
+`Apex` `SOQL` `Lightning Web Components` `Queueable/Batch Apex` `@InvocableMethod` `@RestResource` `REST/SOAP APIs`
 
-**Platform**
+**Salesforce Platform**
 `Sales Cloud` `Service Cloud` `Experience Cloud` `Health Cloud` `Field Service Lightning`
 
 **Automation & Config**
 `Record-Triggered Flows` `Screen Flows` `Scheduled Flows` `Approval Processes` `Named Credentials` `OAuth`
 
-**Security & Compliance**
-`Security Model (OWD / Roles / Profiles / FLS)` `Permission Sets` `GDPR Implementation` `MFA Enforcement`
+**Front-End & Web**
+`HTML` `CSS` `JavaScript` `Lightning Web Components`
 
-**Tooling**
-`Salesforce CLI` `SFDX` `VS Code` `Git` `Brevo API` `GCP`
+**Infrastructure & Tooling**
+`Microsoft 365` `SharePoint` `GCP / Cloud Run` `Brevo API` `OpenAI API` `Salesforce CLI` `SFDX` `Git`
+
+**Security & Compliance**
+`Security Model (OWD / Roles / Profiles / FLS)` `Permission Sets` `GDPR Implementation` `MFA Enforcement` `SharePoint Security`
 
 ---
 
-## Current projects
+## Current work
 
-- **Recruiting automation platform** — custom Apex email blast system, candidate shortlist safety gates, GDPR Art.17 erasure service, Experience Cloud opt-out portal, Brevo REST integration
-- **Health Cloud patient portal** — Digital Experience with secure guest access, GDPR compliance, care pathway configuration
+**CTO — AVL Recruiting Group GmbH**
+Full technical ownership: Salesforce CRM (custom Apex, LWC, Experience Cloud), Microsoft 365/SharePoint, GDPR compliance, front-end development, AI-powered outreach automation (GCP + OpenAI), vendor management, and technical project management.
+
+**Health Cloud Consultant — Breakthrough Solutions**
+Team lead on Salesforce Health Cloud implementation: patient Experience portal, care pathway configuration, bilingual documentation, GDPR compliance.
 
 ---
 
@@ -34,11 +40,13 @@ Salesforce contract consultant based in Hanau, Germany. I build production-grade
 
 - Salesforce Certified Administrator — 2024
 - Salesforce Certified Associate — 2023
+- Platform App Builder — *in progress*
+- AI / KI studies — *in progress*
 
 ---
 
 ## Links
 
+- LinkedIn: [linkedin.com/in/marc-rhodes-9314b6266](https://www.linkedin.com/in/marc-rhodes-9314b6266/)
 - Portfolio: [sites.google.com/view/marcrhodes](https://sites.google.com/view/marcrhodes)
-- LinkedIn: [linkedin.com/in/marc-rhodes-sf](https://www.linkedin.com/in/marc-rhodes-sf)
 - Email: marc.rhodes80@gmail.com
