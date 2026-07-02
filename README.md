@@ -45,8 +45,13 @@ Team lead on Salesforce Health Cloud implementation: patient Experience portal, 
 
 ---
 
+## Featured repo
+
+- **[sf-apex-portfolio](https://github.com/marc-rhodes/sf-apex-portfolio)** — Bulk email dispatch, GDPR Art.17 erasure, suppression service, inbound webhook receiver
+
 ## Links
 
 - LinkedIn: [linkedin.com/in/marc-rhodes-9314b6266](https://www.linkedin.com/in/marc-rhodes-9314b6266/)
 - Portfolio: [sites.google.com/view/marcrhodes](https://sites.google.com/view/marcrhodes)
 - Email: marc.rhodes80@gmail.com
+
