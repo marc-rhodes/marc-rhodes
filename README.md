@@ -1,6 +1,6 @@
-﻿# Marc Rhodes — CTO & Salesforce Developer
+# Marc Rhodes — CTO & Salesforce Developer
 
-Chief Technology Officer at AVL Recruiting Group GmbH (Hanau, Germany), managing the full technical stack across Salesforce, Microsoft 365/SharePoint, front-end development, security & compliance, and AI-powered automation. Also active as a Salesforce consultant across healthcare and professional services.
+Chief Technology Officer at AVL Recruiting Group GmbH (Munich, Germany), working remotely from Offenbach am Main. Full technical ownership across Salesforce, Microsoft 365/SharePoint, front-end development, security & compliance, and AI-powered automation. Also active as a Salesforce consultant across healthcare and professional services.
 
 ---
 
@@ -45,13 +45,14 @@ Team lead on Salesforce Health Cloud implementation: patient Experience portal, 
 
 ---
 
-## Featured repo
+## Featured repos
 
-- **[sf-apex-portfolio](https://github.com/marc-rhodes/sf-apex-portfolio)** — Bulk email dispatch, GDPR Art.17 erasure, suppression service, inbound webhook receiver
+- **[sf-apex-portfolio](https://github.com/marc-rhodes/sf-apex-portfolio)** — Bulk email dispatch (Queueable + Named Credential), GDPR Art.17 erasure, Custom Metadata suppression service, inbound webhook receiver with HMAC-SHA256 auth
+- **[html-email-preview](https://github.com/marc-rhodes/html-email-preview)** — Single-file browser tool for previewing HTML emails at mobile and desktop widths, live render, three starter templates
+- **[salesforce-flow-patterns](https://github.com/marc-rhodes/salesforce-flow-patterns)** — Production Flow templates with annotated design rationale (fault paths, entry filters, bulk-safe DML patterns)
 
 ## Links
 
 - LinkedIn: [linkedin.com/in/marc-rhodes-9314b6266](https://www.linkedin.com/in/marc-rhodes-9314b6266/)
 - Portfolio: [sites.google.com/view/marcrhodes](https://sites.google.com/view/marcrhodes)
 - Email: marc.rhodes80@gmail.com
-
