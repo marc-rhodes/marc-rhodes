@@ -54,5 +54,5 @@ Team lead on Salesforce Health Cloud implementation: patient Experience portal, 
 ## Links
 
 - LinkedIn: [linkedin.com/in/marc-rhodes-9314b6266](https://www.linkedin.com/in/marc-rhodes-9314b6266/)
-- Portfolio: [sites.google.com/view/marcrhodes](https://sites.google.com/view/marcrhodes)
+- Portfolio: [marc-rhodes.github.io](https://marc-rhodes.github.io)
 - Email: marc.rhodes80@gmail.com
